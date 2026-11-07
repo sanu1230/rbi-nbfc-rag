@@ -1,0 +1,9 @@
+# Raw source PDF
+data/raw
+*.pdf
+
+
+#Keep the manifest even thoug it sits under data/!data/manifest
+.rag_venv/
+__pycache__/
+.pytest_cache/
